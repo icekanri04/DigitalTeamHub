@@ -2,7 +2,7 @@
 
 ## Thông tin nhóm
 - Lớp: CT005H
-- Thành viên: Băng, Hân, Phúc, Nghĩa
+- Thành viên: Băng, Hân, Phúc
 
 ## Cấu trúc project
 - Folder_01_Database: SQLite database và SQL scripts
