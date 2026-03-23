@@ -1,0 +1,9 @@
+# Digital Team Hub - CT005H
+
+## Thông tin nhóm
+- Lớp: CT005H
+- Thành viên: Băng, Hân, Phúc, Nghĩa
+## Cấu trúc project
+- Folder_01_Database: SQLite database và SQL scripts
+- Folder_02_Spreadsheet: Excel analytics
+- Folder_03_Assets: Network diagram, Ergonomic photos, QR Code
